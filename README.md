@@ -1,4 +1,4 @@
 # Deep-Level-Set-Stefan-Problems
-Python implementation of the Deep level-set method for Stefan problems.
+Python implementation of the ___Deep Level-set Method___ to solve Stefan problems.
 
-Paper: Shkolnikov, Soner, and Tissot-Daguette. Deep level-set method for Stefan problems. Journal of Computational Physics, 2024
+__Paper__: Shkolnikov, Soner, and Tissot-Daguette. ___Deep level-set method for Stefan problems___. Journal of Computational Physics, 503:112828, 2024
